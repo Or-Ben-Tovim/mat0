@@ -1,0 +1,5 @@
+Num_1=input("Enter the first integer- ")
+Num_1=int(Num_1)
+Num_2=input("Enter the second integer- ")
+Num_2=int(Num_2)
+print(Num_1+Num_2)
